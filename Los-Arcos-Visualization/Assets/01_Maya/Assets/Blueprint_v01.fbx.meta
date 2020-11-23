@@ -37,13 +37,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Window
-    second: {fileID: 2100000, guid: f6ad9d7ff16dc634a99a77a4e8041eae, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: f09b2c07eeb44ce4bb9f680f8bff1bea, type: 2}
+      name: WindowWalls
+    second: {fileID: 2100000, guid: 2d179210993e948418db4ac7344b0618, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
