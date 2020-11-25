@@ -3,7 +3,77 @@ guid: bd48ab0a175f04c4fa56f4880361b9b5
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin1
+    second: {fileID: 2100000, guid: 92f505dfff2b78d478665f3781c54e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathroomFloor
+    second: {fileID: 2100000, guid: d3249bb4cc4e3714c84c23f9bad1c802, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Commode
+    second: {fileID: 2100000, guid: 3a006b53b770a8f4bbacf5e407e195cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InnerNostril
+    second: {fileID: 2100000, guid: 81c3dc924249d4f40904a95086562c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OuterNostril
+    second: {fileID: 2100000, guid: db6db11ba67069841bb090e2e51f86ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower1
+    second: {fileID: 2100000, guid: 7f5e1a1ec72db8946b0fefff18e6ea50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerFloor
+    second: {fileID: 2100000, guid: 4f8a37de0d36ab849a3637680e8ec21c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerFrame1
+    second: {fileID: 2100000, guid: 47e6f98113b959f4bb607788ed3e60bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerHeadBackplate
+    second: {fileID: 2100000, guid: fb5f44e7aedfd974bb7ca20a9aab3361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerHose
+    second: {fileID: 2100000, guid: 20f98b8d9d94a0b429e3323e074022fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tap
+    second: {fileID: 2100000, guid: 4a9eca5ada9086e409a366a1d1089a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterStopper1
+    second: {fileID: 2100000, guid: 34ce1bfab4bdf124eb7473dd994c9035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 5411cd0d3ffb9ba4287675dad16fc28e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 63670c1266a17854abcebf0a0f15fa5e, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
