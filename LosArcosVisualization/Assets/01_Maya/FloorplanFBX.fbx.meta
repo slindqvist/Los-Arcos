@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Basin1
+    second: {fileID: 2100000, guid: 5e6b61edc7b224f43a2f64e87efeb76e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: BathSides
     second: {fileID: 2100000, guid: ebf6aad66b76a9c46a5ddebc1e358a1c, type: 2}
   - first:
@@ -19,6 +24,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Bathroom
     second: {fileID: 2100000, guid: 154bcf72c12e0b24ea9e6f2ba6052327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathroomFloor
+    second: {fileID: 2100000, guid: f6b892e50a9a6594fa66284e6ab5583e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Commode
+    second: {fileID: 2100000, guid: 35fcc0d029e1c2c4ebd7c01a703a7550, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -37,13 +52,68 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: InnerNostril
+    second: {fileID: 2100000, guid: 59d63c56b79df1f4f8d31db9208c1038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InnerNostril1
+    second: {fileID: 2100000, guid: a4ecc972d5d437b4b807be3b131a450d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: InnerWalls
     second: {fileID: 2100000, guid: 22efa32a2a17949469ead95868df55df, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: OuterNostril
+    second: {fileID: 2100000, guid: 6ddec5e1b8f6b024fb10186971a48db4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OuterNostril1
+    second: {fileID: 2100000, guid: 0b238e598d50abc45b43ccc189015aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Roof1
     second: {fileID: 2100000, guid: 50316fc787386a440a48db1dc783873b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower1
+    second: {fileID: 2100000, guid: e4555d512ca94b64e814fec933136ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower2
+    second: {fileID: 2100000, guid: e8d2e92ee8892154897c30678c5926e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerFloor
+    second: {fileID: 2100000, guid: ebb9d61fb50a75c40af14c6f30870172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerFrame1
+    second: {fileID: 2100000, guid: ab1a3eca3326f7f429fc4c3f8f32c756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerHeadBackplate
+    second: {fileID: 2100000, guid: 5c04ec6b0aa80764d9d7e9050e9f3f7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerHose
+    second: {fileID: 2100000, guid: 876437ea79ab3da4aa103018cd5d25dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tap
+    second: {fileID: 2100000, guid: 2c0a842586a77004e96ab207a2c8ef0d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -54,6 +124,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Walls
     second: {fileID: 2100000, guid: 8720202b468d20b41bc0251506c474be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterStopper1
+    second: {fileID: 2100000, guid: a124f3c1b87a8934c88500ebadfd8bc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window1
+    second: {fileID: 2100000, guid: 64123271e199cbb4da0ec14fdc967947, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
