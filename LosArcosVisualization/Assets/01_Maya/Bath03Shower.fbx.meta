@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bafb264e49bc7d74f9a1342b7c169306
+guid: 899913f2e3490254187f6fc6b7dab5e3
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -7,58 +7,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: BathSides
-    second: {fileID: 2100000, guid: ebf6aad66b76a9c46a5ddebc1e358a1c, type: 2}
+      name: InnerNostril2
+    second: {fileID: 2100000, guid: 4052fdb277f995f4cbd1d79412a1ff0a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: BathUpDown
-    second: {fileID: 2100000, guid: 35b96e9282684e247b0cde98937680ee, type: 2}
+      name: OuterNostril2
+    second: {fileID: 2100000, guid: 872a0e9c72d1d144588ff9f8bb4de246, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Bathroom
-    second: {fileID: 2100000, guid: 154bcf72c12e0b24ea9e6f2ba6052327, type: 2}
+      name: Shower3
+    second: {fileID: 2100000, guid: 1bac5f0ae2f57e74ca68f8bec2fc81d1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Doors
-    second: {fileID: 2100000, guid: 29d577a875a92e44783137edac6815a0, type: 2}
+      name: ShowerHeadBackplate1
+    second: {fileID: 2100000, guid: 906d2802e67262940a1879a4b91af7c8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Floor
-    second: {fileID: 2100000, guid: 9136aeecc790a9347b8a89cb47d70af2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: FrenchBalcony
-    second: {fileID: 2100000, guid: 6ca1372cd7804094fb99bea7da79006b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: InnerWalls
-    second: {fileID: 2100000, guid: 22efa32a2a17949469ead95868df55df, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Roof1
-    second: {fileID: 2100000, guid: 50316fc787386a440a48db1dc783873b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Terrace1
-    second: {fileID: 2100000, guid: 3c611185f035d0a4eb318601e65c38d4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Walls
-    second: {fileID: 2100000, guid: 8720202b468d20b41bc0251506c474be, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: WindowWalls
-    second: {fileID: 2100000, guid: cdc71ed61880a024e973944c035771ae, type: 2}
+      name: ShowerHose1
+    second: {fileID: 2100000, guid: 0ae948f89ef355a4caa355449d9c0133, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -99,7 +69,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

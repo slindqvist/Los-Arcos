@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bafb264e49bc7d74f9a1342b7c169306
+guid: 30469ae89615f3c46aa9b8abce0d9ea6
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -7,58 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: BathSides
-    second: {fileID: 2100000, guid: ebf6aad66b76a9c46a5ddebc1e358a1c, type: 2}
+      name: Basin2
+    second: {fileID: 2100000, guid: c837dbff796467248bdfa1120026d15e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: BathUpDown
-    second: {fileID: 2100000, guid: 35b96e9282684e247b0cde98937680ee, type: 2}
+      name: Commode
+    second: {fileID: 2100000, guid: 406c82d66c5586845b980dd601896415, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Bathroom
-    second: {fileID: 2100000, guid: 154bcf72c12e0b24ea9e6f2ba6052327, type: 2}
+      name: Tap1
+    second: {fileID: 2100000, guid: 2289cfda4c2ec4d47bc17d20eb0aa9ec, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Doors
-    second: {fileID: 2100000, guid: 29d577a875a92e44783137edac6815a0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Floor
-    second: {fileID: 2100000, guid: 9136aeecc790a9347b8a89cb47d70af2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: FrenchBalcony
-    second: {fileID: 2100000, guid: 6ca1372cd7804094fb99bea7da79006b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: InnerWalls
-    second: {fileID: 2100000, guid: 22efa32a2a17949469ead95868df55df, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Roof1
-    second: {fileID: 2100000, guid: 50316fc787386a440a48db1dc783873b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Terrace1
-    second: {fileID: 2100000, guid: 3c611185f035d0a4eb318601e65c38d4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Walls
-    second: {fileID: 2100000, guid: 8720202b468d20b41bc0251506c474be, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: WindowWalls
-    second: {fileID: 2100000, guid: cdc71ed61880a024e973944c035771ae, type: 2}
+      name: WaterStopper2
+    second: {fileID: 2100000, guid: 2bb0ec1c9aeb3d645b5fe643887b41d4, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -99,7 +64,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
