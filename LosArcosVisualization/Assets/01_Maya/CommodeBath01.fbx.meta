@@ -6,7 +6,32 @@ ModelImporter:
   - first:
       74: 1827226128182048838
     second: Take 001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin4
+    second: {fileID: 2100000, guid: cd76a964e298ef141a07fd14e03d8cd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommodeMasterBath
+    second: {fileID: 2100000, guid: a407cb3b73126bd459703a27a8dac8b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tap3
+    second: {fileID: 2100000, guid: 060a9a0e020ed44428ad3743b8afb91e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UpperCommodeMasterBath
+    second: {fileID: 2100000, guid: fdd7761bf0550ad44b4f5814b12941f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterStopper4
+    second: {fileID: 2100000, guid: 244b2dbc1ac72e24192f2498c38c42b6, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -47,7 +72,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
