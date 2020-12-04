@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Bath01
+    second: {fileID: 2100000, guid: a83d3fbd1e9d90a42b439047fa523663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: BathSides
     second: {fileID: 2100000, guid: ebf6aad66b76a9c46a5ddebc1e358a1c, type: 2}
   - first:
@@ -44,6 +49,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: InnerWalls
     second: {fileID: 2100000, guid: 22efa32a2a17949469ead95868df55df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalRail
+    second: {fileID: 2100000, guid: ed6579e0b62cd624c9a2628fbdfe7fee, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
