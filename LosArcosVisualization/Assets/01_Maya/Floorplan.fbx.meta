@@ -57,6 +57,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: PVCHandle
+    second: {fileID: 2100000, guid: a421eb3e86034f54d9aba99d5f8b3623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Roof1
     second: {fileID: 2100000, guid: 50316fc787386a440a48db1dc783873b, type: 2}
   - first:
