@@ -48,13 +48,13 @@ ScriptedImporter:
         offset: {x: 0, y: 0}
       - name: _EmissionMap
         texture: {instanceID: 0}
-        scale: {x: 1, y: 1}
-        offset: {x: 0, y: 0}
+        scale: {x: 6.43, y: 9.1}
+        offset: {x: 0, y: 0.96}
       - name: _MainTex
         texture: {fileID: -5037983959877031446, guid: b7ba18ad02bfa4e4d84ea0933b0868b9,
           type: 3}
-        scale: {x: 5.46, y: 5.58}
-        offset: {x: 0, y: 0}
+        scale: {x: 6.43, y: 9.1}
+        offset: {x: 0, y: 0.96}
       - name: _MetallicGlossMap
         texture: {fileID: -6592277337744079308, guid: b7ba18ad02bfa4e4d84ea0933b0868b9,
           type: 3}
