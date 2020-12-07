@@ -8,22 +8,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: BathroomFloor2
-    second: {fileID: 2100000, guid: ee054054f3b8d2e4da68242543061a4d, type: 2}
+    second: {fileID: 2100000, guid: 800a384e80d853e4c91ca9fccd73e524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalRail
+    second: {fileID: 2100000, guid: a00864a123f5e4e4da40c9f15bef8221, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ShowerFloor2
-    second: {fileID: 2100000, guid: 8d41cd0edf749bd4ca9c60e98a44abb6, type: 2}
+    second: {fileID: 2100000, guid: d72e55c9c98f99c4b82c22ac03296257, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ShowerFrame3
-    second: {fileID: 2100000, guid: d23570a8a696cd14fba49dec83a8dcda, type: 2}
+    second: {fileID: 2100000, guid: 15a5445bfe85f5c4b904dcb28c4f9187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerHandle
+    second: {fileID: 2100000, guid: d03a883ce99bb4d458701acc2882ed50, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Window4
-    second: {fileID: 2100000, guid: 0c2ec0adfee948541ae63a8f0568fabf, type: 2}
+    second: {fileID: 2100000, guid: 2a1467742a9b2474ca625ae14b3cf7ea, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -64,7 +74,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

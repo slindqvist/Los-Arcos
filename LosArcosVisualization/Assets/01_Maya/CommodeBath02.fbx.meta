@@ -3,7 +3,27 @@ guid: 3ae1f00b70a80c24aa7d9bbb2f503597
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin5
+    second: {fileID: 2100000, guid: 1619a77d702dd0548b4911246190c896, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Commode3
+    second: {fileID: 2100000, guid: 6739d008751d330418e2af1f0e2f268a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tap4
+    second: {fileID: 2100000, guid: b7b8575c5d37fca4c837d486871d178c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterStopper5
+    second: {fileID: 2100000, guid: 707c67453165e3a47a015eecf52704df, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -44,7 +64,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

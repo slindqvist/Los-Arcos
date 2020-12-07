@@ -6,7 +6,52 @@ ModelImporter:
   - first:
       74: 1827226128182048838
     second: Take 001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin4
+    second: {fileID: 2100000, guid: 99689a2dd95b3f9459e0f38492a6ba2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommodeMasterBath
+    second: {fileID: 2100000, guid: ba041821cbe63474d9abb7dcaee06151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MirrorBack
+    second: {fileID: 2100000, guid: 316f14c70d28c044aa446ee71a2f8856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MirrorColor
+    second: {fileID: 2100000, guid: aa0aae3e8f8935c44afe0148ae2d9859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MirrorLightColor
+    second: {fileID: 2100000, guid: 764720b3ab05f60408ecfdf00d8cc72b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tap3
+    second: {fileID: 2100000, guid: e95aba3b2153e584b929d11f634c2eed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UpperCommodeMasterBath
+    second: {fileID: 2100000, guid: 731d2b665e029e449ba2a844471c65c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterStopper4
+    second: {fileID: 2100000, guid: c7a4dad55598e934da52f3f2b1dc0c95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: 3d09e5262365b8e44bf96d4ac7d2e09c, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -47,7 +92,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

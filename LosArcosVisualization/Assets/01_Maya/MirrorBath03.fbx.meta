@@ -8,22 +8,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MirrorBack
-    second: {fileID: 2100000, guid: 295652afb44b3a848ad4a8d922cc295a, type: 2}
+    second: {fileID: 2100000, guid: 6d630b85650ba054ba898d9bdd17d19e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MirrorColor
-    second: {fileID: 2100000, guid: 2a47b23d570453543a7f80e0f7f2bbca, type: 2}
+    second: {fileID: 2100000, guid: 3aa364a79138ca44caed97257304d6ab, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MirrorLightColor
-    second: {fileID: 2100000, guid: 82af0191719fe18458f5cdcbeca1498a, type: 2}
+    second: {fileID: 2100000, guid: 19b494ded2799dc429cafb7a0ca21615, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lambert18
-    second: {fileID: 2100000, guid: 1b312e26a65954c4880d90ff63447a76, type: 2}
+    second: {fileID: 2100000, guid: 8504202a65b61494e880671032c14990, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -64,7 +64,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
