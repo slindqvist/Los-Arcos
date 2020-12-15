@@ -32,6 +32,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Doors
+    second: {fileID: 2100000, guid: 823c111a447aa434998324e99d1d1ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Green
     second: {fileID: 2100000, guid: c68f44df4162c8f42ba67f1031e72532, type: 2}
   - first:
@@ -39,6 +44,41 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Grey
     second: {fileID: 2100000, guid: 4a2ac08fd52d53a488617424c208da4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InteriorDoorBath01
+    second: {fileID: 2100000, guid: 49982fcec0b276047b8dfef26ec20627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InteriorDoorBath02
+    second: {fileID: 2100000, guid: 1c8b867efd88e5842ad75111456387de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InteriorDoorBath03
+    second: {fileID: 2100000, guid: af872527cafe14a429730506ec1a6d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InteriorDoorBed01
+    second: {fileID: 2100000, guid: e5abbf405fde6424d9cca6a2695b344f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InteriorDoorBed02
+    second: {fileID: 2100000, guid: 1786d7417922f5944b2f8d6544985519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InteriorDoorBed03
+    second: {fileID: 2100000, guid: 167936e88195dd24a91147c9c0eeb837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InteriorDoorBed04
+    second: {fileID: 2100000, guid: e77163fac79853447a11f58b089d00ce, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -79,6 +119,66 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: White
     second: {fileID: 2100000, guid: 1d6766bcd9ef5ac468548ffcb66869fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinBath01
+    second: {fileID: 2100000, guid: 5dbc0d8dce49b274ea16f4e27bd572d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinBath02
+    second: {fileID: 2100000, guid: 701b27951cdbf3948883077bf3b062eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinBed01
+    second: {fileID: 2100000, guid: a416efca82ad4fe4c9692be5f23327f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinBed02
+    second: {fileID: 2100000, guid: ff79a18b16ce76043a2b128ade4c58fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinBed04
+    second: {fileID: 2100000, guid: cd020b3f154dfc14fa0c1f7595a171fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinHandleBath01
+    second: {fileID: 2100000, guid: 9ac8b3f546a5f5a45ba744b348fbccc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinHandleBath02
+    second: {fileID: 2100000, guid: 21737b6b7074f7547be375350bc240dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinHandleBed03
+    second: {fileID: 2100000, guid: 9f8d85100d659504badd38906869acc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinKitchen
+    second: {fileID: 2100000, guid: 07c958dc1420c5f48a466daf1ce428dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinLBed03
+    second: {fileID: 2100000, guid: 5b3bc6e0dd29732419063257885f4e35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinLiving
+    second: {fileID: 2100000, guid: a7b8efb76c5e21144a9b961530caaa21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinSBed03
+    second: {fileID: 2100000, guid: 35512ebf36a61b345b0667bbbaa51e13, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
