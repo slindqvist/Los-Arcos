@@ -8,7 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Grey
-    second: {fileID: 2100000, guid: ab7dfce6157eaad4c9d269a30a1de693, type: 2}
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShowerBath02
+    second: {fileID: 2100000, guid: 382029ddc0c33294c88ec653b3e4dd68, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
