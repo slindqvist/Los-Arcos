@@ -12,13 +12,73 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Bath01WallBack
+    second: {fileID: 2100000, guid: 59eae466e60757048a189b29ca63d3e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath01WallFront
+    second: {fileID: 2100000, guid: c6c729a9bee786745afc5e7672dedd26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath01WallLeft
+    second: {fileID: 2100000, guid: 7ed3e92bb7fb12a4795b32a726e63447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath01WallRight
+    second: {fileID: 2100000, guid: 542b503d57973a644893235f62b569ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Bath02
     second: {fileID: 2100000, guid: 3d2b6fef15fecef4e9282ad72c62d7cc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Bath02WallBack
+    second: {fileID: 2100000, guid: b874e478c8bafd54ca60ba1e51bc119a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath02WallFront
+    second: {fileID: 2100000, guid: 27b78a607bc80314cb5027e3fc58681e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath02WallLeft
+    second: {fileID: 2100000, guid: bdaf81f922078cf489a7e92280618b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath02WallRight
+    second: {fileID: 2100000, guid: 5abc5f80b10b3ef47a25935ac2d3eecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Bath03
     second: {fileID: 2100000, guid: e86cdbd76f2ccf44a9e2b6b7136deebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath03WallBack
+    second: {fileID: 2100000, guid: cf9230ae0db2ade4a84a83369f4ca496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath03WallFront
+    second: {fileID: 2100000, guid: 0e942120888938440bea10d32ada8e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath03WallLeft
+    second: {fileID: 2100000, guid: 656014193d5297e42818c9588aa7ebf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bath03WallRight
+    second: {fileID: 2100000, guid: 8bfafb038d4b58945886b1cbf50bf3b5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -82,6 +142,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: InteriorFloor
+    second: {fileID: 2100000, guid: 4c6c746d981046e45935c695e8309543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Ivy
     second: {fileID: 2100000, guid: 079f46ad5254126488e34b7410ad54f7, type: 2}
   - first:
@@ -102,6 +167,41 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: adfcaac8e9f803d4a9b29351d59bb8a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofWallPaint
+    second: {fileID: 2100000, guid: 3735acc48743c77449ee13f636de74e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room01
+    second: {fileID: 2100000, guid: b713adaa6674b7d438e998a176ea679a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room02
+    second: {fileID: 2100000, guid: 62a9e5719619a6245b8f8d8fbe32175d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room03
+    second: {fileID: 2100000, guid: 172aaab7fc4b57847a13d21259fcbff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room04
+    second: {fileID: 2100000, guid: 563187671dc96c842b2e1a37da5a379c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoomLiving
+    second: {fileID: 2100000, guid: 7b462fac0867e6942885db511c972168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: ShelfSides
     second: {fileID: 2100000, guid: 63ccc3778876b4741b01d01b511dd796, type: 2}
   - first:
@@ -114,6 +214,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: SlidingWindowHandle
     second: {fileID: 2100000, guid: 7f8f524e6261c624e8d60d231a57b0e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terrace
+    second: {fileID: 2100000, guid: ce2e4507ce5ed4248a6a6c30553637d9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
