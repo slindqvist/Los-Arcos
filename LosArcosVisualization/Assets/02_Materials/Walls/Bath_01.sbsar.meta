@@ -17,7 +17,7 @@ ScriptedImporter:
     generateAllOutputs: 0
     generateMipMaps: 1
     preset: " <sbspreset pkgurl=\"pkg://Bath_01\" label=\"\" >\n  <presetinput identifier=\"$outputsize\"
-      uid=\"2788399371\" type=\"8\" value=\"9,9\" />\n </sbspreset>\n"
+      uid=\"2788399371\" type=\"8\" value=\"11,11\" />\n </sbspreset>\n"
     shaderName: Standard
     materialProperties:
       shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
@@ -46,12 +46,12 @@ ScriptedImporter:
         offset: {x: 0, y: 0}
       - name: _EmissionMap
         texture: {instanceID: 0}
-        scale: {x: 21.21, y: 13.4}
+        scale: {x: 7.93, y: 3.7}
         offset: {x: 0, y: 0}
       - name: _MainTex
         texture: {fileID: -36713638210687220, guid: f1d44613bc8a1f84191f320a0b2c4b37,
           type: 3}
-        scale: {x: 21.21, y: 13.4}
+        scale: {x: 7.93, y: 3.7}
         offset: {x: 0, y: 0}
       - name: _MetallicGlossMap
         texture: {fileID: -613285094863435887, guid: f1d44613bc8a1f84191f320a0b2c4b37,
@@ -259,8 +259,8 @@ ScriptedImporter:
     - label: Default
       bOverride: 0
       bLockRatio: 1
-      textureWidth: 512
-      textureHeight: 512
+      textureWidth: 2048
+      textureHeight: 2048
       textureFormatMode: 0
       normalCompressed: 0
       bGenerateOnLoad: 1
