@@ -147,6 +147,51 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: WinGlassBath01
+    second: {fileID: 2100000, guid: b31202fbfd793454a979f6733e646fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinGlassBath02
+    second: {fileID: 2100000, guid: 1160810eee4e0a1429d76be609c18ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinGlassBed01
+    second: {fileID: 2100000, guid: 6d14f6f58874bb649838db7f5d3e02a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinGlassBed02
+    second: {fileID: 2100000, guid: afce2236917607546823390d16d4dc0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinGlassBed03
+    second: {fileID: 2100000, guid: 73792f6efd4d6c84a98f8b78ec0a2c54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinGlassBed04
+    second: {fileID: 2100000, guid: 83a176f99615dd341860ef83e5ba76e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinGlassKitchen
+    second: {fileID: 2100000, guid: c4db854ea49870a48a87400633108fce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinGlassLiving
+    second: {fileID: 2100000, guid: 8f669c89781ade546b5d42f33a5646aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WinGlassSBed03
+    second: {fileID: 2100000, guid: 4f8592c920f35ed43a2dd69ef22b2721, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: WinHandleBath01
     second: {fileID: 2100000, guid: 9ac8b3f546a5f5a45ba744b348fbccc9, type: 2}
   - first:
