@@ -97,6 +97,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: EntranceDoor
+    second: {fileID: 2100000, guid: 8873c9a6c8e323d48a7c66694f3c5294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Green
     second: {fileID: 2100000, guid: c68f44df4162c8f42ba67f1031e72532, type: 2}
   - first:
@@ -149,6 +154,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Ivy
     second: {fileID: 2100000, guid: 079f46ad5254126488e34b7410ad54f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutsideFrames
+    second: {fileID: 2100000, guid: 93d2f250584b4694f8be02f36cfb50c3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -207,8 +217,43 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: ShelfSidesBath01
+    second: {fileID: 2100000, guid: 41ac17547cb14c446bc8e8777d1c2b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShelfSidesBath02Front
+    second: {fileID: 2100000, guid: b8e53b8c12e32fa4da970ef5282e281a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShelfSidesBath02Left
+    second: {fileID: 2100000, guid: 1fce735d2e1357f45b1b63584f0d9a0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: ShelfUpDown
     second: {fileID: 2100000, guid: f6219156b8f86d243a29f5e9c1338f3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShelfUpDownBath01
+    second: {fileID: 2100000, guid: 7f98c656eb6aa2e4490103a99657df6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShelfUpDownBath02Front
+    second: {fileID: 2100000, guid: 4663739c51c6b1345a5feeb72331193e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShelfUpDownBath02Left
+    second: {fileID: 2100000, guid: 4d1f30ea5ee11424cb9bb92d1b43b428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShelfUpDownBath03
+    second: {fileID: 2100000, guid: e3d5c07929fae504a8a011b91dbde1f0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
