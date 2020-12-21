@@ -377,6 +377,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: WoodenBorder
+    second: {fileID: 2100000, guid: bb42169e7a9d4d64ea6f82684153e86a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Yellow
     second: {fileID: 2100000, guid: 6459a832c8ed32541a8e365ebb1e2b04, type: 2}
   materials:
