@@ -7,6 +7,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: BeamLeft1
+    second: {fileID: 2100000, guid: 0860f9ce3e2c13d418755b0b3ae0a4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BeamRight1
+    second: {fileID: 2100000, guid: 7cdcc63771036714898367936d85d269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Beams
     second: {fileID: 2100000, guid: 9b91fbe13933af54d91353a25d6a0f2f, type: 2}
   - first:
